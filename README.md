@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Lukas from Germany!<br><br>- 🔭 I’m working on Loomic & Silk AI.</p>
+<p align="left">I'm Lukas from Germany!<br><br>- 🔭 I’m working on Loomic & Velio.</p>
 
 ###
 
